@@ -12,6 +12,7 @@ We conducted an in-depth analysis over all the dataset to find the best way to d
 ![Images by technique](dataset/stats/DFFD/images_by_technique.png)
 
 After that we could derive a 10000 images [dataset](/dataset/samples/), picking random samples from every technique used in DFFD. Some stats about what we called *Distilled-DFFD* can be viewed in this [folder](dataset/stats/Distilled-DFFD). Below the general structure is showed:
+
 ![Distilled-DFFD structure](dataset/stats/Distilled-DFFD/images_by_split.png)
 
 In the [source](/dataset/src/) folder we put the scripts that we used for all the analysis and manipulation.
@@ -73,14 +74,14 @@ To log the results, you need to have a WandB account and set the API key in your
 In Colab you can add the key during the runtime, for Kaggle you have to put it in the secrets keys.
 
 ## How to Run
-The notebook is meant to be run subsequently. Just go to the **Control Room** section, set the **Hyperparameters** with the desired configuration and then hit **Run All**. You can choose among these values:
+The notebook is meant to be run subsequently. Just go to the **Control Room (🕹️)**, in the **Hyperparameters(🔢)** section, set the values with the desired configuration and then hit **Run All**. You can choose among these options:
 ``` python
 GRID_SEARCH = False          # flag true if you want to perform a grid search, false if you only want to train
 LOAD_FINETUNED = False       # flag true if you want to load our best fine-tuned model (modify below to choose if with PIM or not)
 PLUG_PIM = False             # flag true if you want to plug PIM, false otherwise
 ADV_ATTACK_TYPE = 'MI-FGSM'  # other options: 'FGSM', 'PGD', 'MI-FGSM', 'None'
 ```
-The second variable is meant for loading one of the three fine-tuned models that we provide in this repo. Two of them are base models, the last one has the PIM plugged (see [here](papers/Improving_Generalization_of_Deepfake_Detectors_by_Imposing_Gradient_Regularization.pdf) for more informations) and will be loaded only if the `PLUG_PIM` flag is `True`.
+The second variable is meant for loading one of the **three fine-tuned models** that we provide in this repo. Two of them are base models, the last one has the PIM plugged (see [here](papers/Improving_Generalization_of_Deepfake_Detectors_by_Imposing_Gradient_Regularization.pdf) for more informations) and will be loaded only if the `PLUG_PIM` flag is `True`.
 
 Regarding the last variable, a more detailed overview of the attack options:
 
@@ -90,4 +91,4 @@ Regarding the last variable, a more detailed overview of the attack options:
   
 * **MI-FGSM** ("Momentum Iterative FGSM") - Like PGD but with "momentum"
 
-Enjoy!
+Enjoy😃!
