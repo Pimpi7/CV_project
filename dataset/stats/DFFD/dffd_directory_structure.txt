@@ -1,0 +1,462 @@
+Directory Tree for: /mnt/c/Users/User/Desktop/CV_project/DFFD_dataset
+────────────────────────────────────────────────────────────────────────────────
+DFFD_dataset/
+├── DFFD_dataset/
+│   ├── all_bounding_box_files/
+│   │   ├── CelebA.txt (3.78 MB, text/plain)
+│   │   ├── Deepfakes.txt (3.57 MB, text/plain)
+│   │   ├── FFHQ.txt (3.70 MB, text/plain)
+│   │   ├── Face2Face.txt (3.57 MB, text/plain)
+│   │   ├── FaceApp_FFHQ_00000_Fake.txt (2.00 MB, text/plain)
+│   │   ├── FaceApp_FFHQ_10000_Fake.txt (2.15 MB, text/plain)
+│   │   ├── FaceSwap.txt (2.85 MB, text/plain)
+│   │   ├── Original.txt (3.57 MB, text/plain)
+│   │   ├── PGGAN_v1.txt (3.77 MB, text/plain)
+│   └── PGGAN_v2.txt (3.72 MB, text/plain)
+│   └── ... and 12 more files
+│   ├── bounding_boxes/
+│   │   ├── FF++.txt (3.57 MB, text/plain)
+│   │   ├── bowie_src.txt (192.06 KB, text/plain)
+│   │   ├── carrey_src.txt (694.45 KB, text/plain)
+│   │   ├── joker_src.txt (347.92 KB, text/plain)
+│   │   ├── krasinski_src.txt (138.89 KB, text/plain)
+│   │   ├── lee_src.txt (452.11 KB, text/plain)
+│   │   ├── murray_src.txt (310.40 KB, text/plain)
+│   │   ├── musk_src.txt (563.43 KB, text/plain)
+│   │   ├── reeves_src.txt (591.62 KB, text/plain)
+│   └── stallone_src.txt (337.67 KB, text/plain)
+│   ├── faceapp/
+│   │   ├── test/
+│   │   │   ├── F_FAP1_00333-1.png (143.79 KB, image/png)
+│   │   │   ├── F_FAP1_00333-2.png (145.22 KB, image/png)
+│   │   │   ├── F_FAP1_00333-3.png (146.65 KB, image/png)
+│   │   │   ├── F_FAP1_00334-1.png (138.00 KB, image/png)
+│   │   │   ├── F_FAP1_00334-2.png (137.07 KB, image/png)
+│   │   │   ├── F_FAP1_00334-3.png (132.58 KB, image/png)
+│   │   │   ├── F_FAP1_00335-1.png (130.50 KB, image/png)
+│   │   │   ├── F_FAP1_00335-2.png (142.04 KB, image/png)
+│   │   │   ├── F_FAP1_00335-3.png (142.50 KB, image/png)
+│   │   └── F_FAP1_00336-1.png (139.70 KB, image/png)
+│   │   └── ... and 4491 more files
+│   │   ├── test_mask/
+│   │   │   ├── F_FAP1_00333-1.png (125.71 KB, image/png)
+│   │   │   ├── F_FAP1_00333-2.png (124.96 KB, image/png)
+│   │   │   ├── F_FAP1_00333-3.png (144.38 KB, image/png)
+│   │   │   ├── F_FAP1_00334-1.png (131.15 KB, image/png)
+│   │   │   ├── F_FAP1_00334-2.png (114.73 KB, image/png)
+│   │   │   ├── F_FAP1_00334-3.png (142.53 KB, image/png)
+│   │   │   ├── F_FAP1_00335-1.png (115.43 KB, image/png)
+│   │   │   ├── F_FAP1_00335-2.png (100.57 KB, image/png)
+│   │   │   ├── F_FAP1_00335-3.png (140.21 KB, image/png)
+│   │   └── F_FAP1_00336-1.png (116.20 KB, image/png)
+│   │   └── ... and 4491 more files
+│   │   ├── train/
+│   │   │   ├── F_FAP0_00000-1.png (147.45 KB, image/png)
+│   │   │   ├── F_FAP0_00000-2.png (149.70 KB, image/png)
+│   │   │   ├── F_FAP0_00000-3.png (140.47 KB, image/png)
+│   │   │   ├── F_FAP0_00001-1.png (128.77 KB, image/png)
+│   │   │   ├── F_FAP0_00001-2.png (128.20 KB, image/png)
+│   │   │   ├── F_FAP0_00001-3.png (126.81 KB, image/png)
+│   │   │   ├── F_FAP0_00002-1.png (143.72 KB, image/png)
+│   │   │   ├── F_FAP0_00002-2.png (136.45 KB, image/png)
+│   │   │   ├── F_FAP0_00002-3.png (147.64 KB, image/png)
+│   │   └── F_FAP0_00003-1.png (133.70 KB, image/png)
+│   │   └── ... and 6299 more files
+│   │   ├── train_mask/
+│   │   │   ├── F_FAP0_00000-1.png (121.47 KB, image/png)
+│   │   │   ├── F_FAP0_00000-2.png (129.13 KB, image/png)
+│   │   │   ├── F_FAP0_00000-3.png (139.30 KB, image/png)
+│   │   │   ├── F_FAP0_00001-1.png (116.88 KB, image/png)
+│   │   │   ├── F_FAP0_00001-2.png (130.09 KB, image/png)
+│   │   │   ├── F_FAP0_00001-3.png (135.81 KB, image/png)
+│   │   │   ├── F_FAP0_00002-1.png (126.59 KB, image/png)
+│   │   │   ├── F_FAP0_00002-2.png (129.56 KB, image/png)
+│   │   │   ├── F_FAP0_00002-3.png (150.94 KB, image/png)
+│   │   └── F_FAP0_00003-1.png (111.89 KB, image/png)
+│   │   └── ... and 6299 more files
+│   │   ├── validation/
+│   │   │   ├── F_FAP1_00000-1.png (130.20 KB, image/png)
+│   │   │   ├── F_FAP1_00000-2.png (129.98 KB, image/png)
+│   │   │   ├── F_FAP1_00000-3.png (126.95 KB, image/png)
+│   │   │   ├── F_FAP1_00001-1.png (128.71 KB, image/png)
+│   │   │   ├── F_FAP1_00001-2.png (124.33 KB, image/png)
+│   │   │   ├── F_FAP1_00001-3.png (139.20 KB, image/png)
+│   │   │   ├── F_FAP1_00002-1.png (126.82 KB, image/png)
+│   │   │   ├── F_FAP1_00002-2.png (134.69 KB, image/png)
+│   │   │   ├── F_FAP1_00002-3.png (126.37 KB, image/png)
+│   │   └── F_FAP1_00003-1.png (121.34 KB, image/png)
+│   │   └── ... and 989 more files
+│       ├── validation_mask/
+│       │   ├── F_FAP1_00000-1.png (117.40 KB, image/png)
+│       │   ├── F_FAP1_00000-2.png (123.21 KB, image/png)
+│       │   ├── F_FAP1_00000-3.png (142.96 KB, image/png)
+│       │   ├── F_FAP1_00001-1.png (115.96 KB, image/png)
+│       │   ├── F_FAP1_00001-2.png (105.67 KB, image/png)
+│       │   ├── F_FAP1_00001-3.png (134.97 KB, image/png)
+│       │   ├── F_FAP1_00002-1.png (116.88 KB, image/png)
+│       │   ├── F_FAP1_00002-2.png (114.92 KB, image/png)
+│       │   ├── F_FAP1_00002-3.png (127.76 KB, image/png)
+│       └── F_FAP1_00003-1.png (100.30 KB, image/png)
+│       └── ... and 989 more files
+│   ├── ffhq/
+│   │   ├── test/
+│   │   │   ├── R_FFHQ_11000.png (162.30 KB, image/png)
+│   │   │   ├── R_FFHQ_11001.png (148.07 KB, image/png)
+│   │   │   ├── R_FFHQ_11002.png (124.35 KB, image/png)
+│   │   │   ├── R_FFHQ_11003.png (144.49 KB, image/png)
+│   │   │   ├── R_FFHQ_11004.png (137.05 KB, image/png)
+│   │   │   ├── R_FFHQ_11005.png (131.12 KB, image/png)
+│   │   │   ├── R_FFHQ_11006.png (129.42 KB, image/png)
+│   │   │   ├── R_FFHQ_11007.png (137.44 KB, image/png)
+│   │   │   ├── R_FFHQ_11008.png (131.18 KB, image/png)
+│   │   └── R_FFHQ_11009.png (140.18 KB, image/png)
+│   │   └── ... and 8990 more files
+│   │   ├── train/
+│   │   │   ├── R_FFHQ_00000.png (136.65 KB, image/png)
+│   │   │   ├── R_FFHQ_00001.png (151.91 KB, image/png)
+│   │   │   ├── R_FFHQ_00002.png (122.50 KB, image/png)
+│   │   │   ├── R_FFHQ_00003.png (140.45 KB, image/png)
+│   │   │   ├── R_FFHQ_00004.png (151.12 KB, image/png)
+│   │   │   ├── R_FFHQ_00005.png (129.32 KB, image/png)
+│   │   │   ├── R_FFHQ_00006.png (137.03 KB, image/png)
+│   │   │   ├── R_FFHQ_00007.png (121.29 KB, image/png)
+│   │   │   ├── R_FFHQ_00008.png (137.00 KB, image/png)
+│   │   └── R_FFHQ_00009.png (111.38 KB, image/png)
+│   │   └── ... and 9990 more files
+│       ├── validation/
+│       │   ├── R_FFHQ_10000.png (149.79 KB, image/png)
+│       │   ├── R_FFHQ_10001.png (169.66 KB, image/png)
+│       │   ├── R_FFHQ_10002.png (148.24 KB, image/png)
+│       │   ├── R_FFHQ_10003.png (152.85 KB, image/png)
+│       │   ├── R_FFHQ_10004.png (156.88 KB, image/png)
+│       │   ├── R_FFHQ_10005.png (145.49 KB, image/png)
+│       │   ├── R_FFHQ_10006.png (142.89 KB, image/png)
+│       │   ├── R_FFHQ_10007.png (154.91 KB, image/png)
+│       │   ├── R_FFHQ_10008.png (154.80 KB, image/png)
+│       └── R_FFHQ_10009.png (144.24 KB, image/png)
+│       └── ... and 989 more files
+│   ├── pggan_v1/
+│   │   ├── test/
+│   │   │   ├── F_PGN1_11000.png (142.20 KB, image/png)
+│   │   │   ├── F_PGN1_11001.png (104.40 KB, image/png)
+│   │   │   ├── F_PGN1_11002.png (182.58 KB, image/png)
+│   │   │   ├── F_PGN1_11003.png (157.20 KB, image/png)
+│   │   │   ├── F_PGN1_11004.png (117.12 KB, image/png)
+│   │   │   ├── F_PGN1_11005.png (166.90 KB, image/png)
+│   │   │   ├── F_PGN1_11006.png (120.41 KB, image/png)
+│   │   │   ├── F_PGN1_11007.png (115.37 KB, image/png)
+│   │   │   ├── F_PGN1_11008.png (114.65 KB, image/png)
+│   │   └── F_PGN1_11009.png (89.42 KB, image/png)
+│   │   └── ... and 8960 more files
+│   │   ├── train/
+│   │   │   ├── F_PGN1_00000.png (131.98 KB, image/png)
+│   │   │   ├── F_PGN1_00001.png (123.53 KB, image/png)
+│   │   │   ├── F_PGN1_00002.png (137.31 KB, image/png)
+│   │   │   ├── F_PGN1_00003.png (138.24 KB, image/png)
+│   │   │   ├── F_PGN1_00004.png (127.74 KB, image/png)
+│   │   │   ├── F_PGN1_00005.png (134.88 KB, image/png)
+│   │   │   ├── F_PGN1_00006.png (141.74 KB, image/png)
+│   │   │   ├── F_PGN1_00007.png (138.46 KB, image/png)
+│   │   │   ├── F_PGN1_00008.png (112.98 KB, image/png)
+│   │   └── F_PGN1_00009.png (139.47 KB, image/png)
+│   │   └── ... and 9965 more files
+│       ├── validation/
+│       │   ├── F_PGN1_10000.png (114.61 KB, image/png)
+│       │   ├── F_PGN1_10001.png (153.68 KB, image/png)
+│       │   ├── F_PGN1_10002.png (137.00 KB, image/png)
+│       │   ├── F_PGN1_10003.png (133.71 KB, image/png)
+│       │   ├── F_PGN1_10004.png (139.73 KB, image/png)
+│       │   ├── F_PGN1_10005.png (137.57 KB, image/png)
+│       │   ├── F_PGN1_10006.png (100.27 KB, image/png)
+│       │   ├── F_PGN1_10007.png (155.47 KB, image/png)
+│       │   ├── F_PGN1_10008.png (118.01 KB, image/png)
+│       └── F_PGN1_10009.png (172.21 KB, image/png)
+│       └── ... and 988 more files
+│   ├── pggan_v2/
+│   │   ├── test/
+│   │   │   ├── F_PGN2_11000.png (159.60 KB, image/png)
+│   │   │   ├── F_PGN2_11001.png (120.41 KB, image/png)
+│   │   │   ├── F_PGN2_11002.png (168.06 KB, image/png)
+│   │   │   ├── F_PGN2_11003.png (141.31 KB, image/png)
+│   │   │   ├── F_PGN2_11004.png (156.94 KB, image/png)
+│   │   │   ├── F_PGN2_11005.png (122.89 KB, image/png)
+│   │   │   ├── F_PGN2_11006.png (119.18 KB, image/png)
+│   │   │   ├── F_PGN2_11007.png (125.25 KB, image/png)
+│   │   │   ├── F_PGN2_11008.png (115.16 KB, image/png)
+│   │   └── F_PGN2_11009.png (131.67 KB, image/png)
+│   │   └── ... and 8970 more files
+│   │   ├── train/
+│   │   │   ├── F_PGN2_00000.png (117.71 KB, image/png)
+│   │   │   ├── F_PGN2_00001.png (129.87 KB, image/png)
+│   │   │   ├── F_PGN2_00002.png (119.93 KB, image/png)
+│   │   │   ├── F_PGN2_00003.png (129.99 KB, image/png)
+│   │   │   ├── F_PGN2_00004.png (124.84 KB, image/png)
+│   │   │   ├── F_PGN2_00005.png (114.21 KB, image/png)
+│   │   │   ├── F_PGN2_00006.png (120.35 KB, image/png)
+│   │   │   ├── F_PGN2_00007.png (127.12 KB, image/png)
+│   │   │   ├── F_PGN2_00008.png (124.88 KB, image/png)
+│   │   └── F_PGN2_00009.png (127.76 KB, image/png)
+│   │   └── ... and 9972 more files
+│       ├── validation/
+│       │   ├── F_PGN2_10000.png (161.52 KB, image/png)
+│       │   ├── F_PGN2_10001.png (140.42 KB, image/png)
+│       │   ├── F_PGN2_10002.png (122.77 KB, image/png)
+│       │   ├── F_PGN2_10003.png (128.79 KB, image/png)
+│       │   ├── F_PGN2_10004.png (130.97 KB, image/png)
+│       │   ├── F_PGN2_10005.png (135.67 KB, image/png)
+│       │   ├── F_PGN2_10006.png (132.13 KB, image/png)
+│       │   ├── F_PGN2_10007.png (129.63 KB, image/png)
+│       │   ├── F_PGN2_10008.png (143.98 KB, image/png)
+│       └── F_PGN2_10009.png (162.03 KB, image/png)
+│       └── ... and 990 more files
+│   ├── scripts/
+│   │   ├── generate_masks.py (3.46 KB, text/x-script.python)
+│   │   ├── align_faces/
+│   │   │   ├── align_faces.m (1.64 KB, text/plain)
+│   │   │   ├── coord5point.mat (269.00 B, application/x-matlab-data)
+│   │   └── face_align.m (311.00 B, text/plain)
+│   │   ├── data_lists/
+│   │   │   ├── manage.py (2.29 KB, text/x-script.python)
+│   │   │   ├── test_fake.txt (2.34 MB, text/plain)
+│   │   │   ├── test_real.txt (445.47 KB, text/plain)
+│   │   │   ├── train_fake.txt (1.65 MB, text/plain)
+│   │   │   ├── train_real.txt (531.40 KB, text/plain)
+│   │   │   ├── validation_fake.txt (173.68 KB, text/plain)
+│   │   └── validation_real.txt (52.63 KB, text/plain)
+│       ├── extract_faces/
+│       │   ├── retinaface.py (22.65 KB, text/x-script.python)
+│       │   ├── run_box_landmark.py (1.79 KB, text/x-script.python)
+│       │   ├── script.sh (64.00 B, text/plain)
+│       │   ├── model/
+│       │   │   ├── R50-0000.params (112.54 MB, application/octet-stream)
+│       │   └── R50-symbol.json (148.22 KB, text/plain)
+│           ├── rcnn/
+│           │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   ├── logger.py (113.00 B, text/plain)
+│           │   ├── sample_config.py (9.44 KB, text/x-script.python)
+│           │   ├── PY_OP/
+│           │   │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   └── rpn_fpn_ohem3.py (6.76 KB, text/x-script.python)
+│           │   ├── __pycache__/
+│           │   │   ├── __init__.cpython-37.pyc (124.00 B, application/x-bytecode.python)
+│           │   └── logger.cpython-37.pyc (223.00 B, application/x-bytecode.python)
+│           │   ├── core/
+│           │   │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   │   ├── callback.py (533.00 B, text/x-script.python)
+│           │   │   ├── loader.py (17.96 KB, text/x-script.python)
+│           │   │   ├── metric.py (6.15 KB, text/x-script.python)
+│           │   │   ├── module.py (8.39 KB, text/plain)
+│           │   │   ├── module_bak.py (8.40 KB, text/plain)
+│           │   └── tester.py (17.60 KB, text/x-script.python)
+│           │   ├── cython/
+│           │   │   ├── .gitignore (15.00 B, text/plain)
+│           │   │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   │   ├── anchors.c (345.86 KB, text/x-c)
+│           │   │   ├── anchors.cpython-37m-x86_64-linux-gnu.so (199.32 KB, application/x-sharedlib)
+│           │   │   ├── anchors.pyx (1.16 KB, text/x-script.python)
+│           │   │   ├── bbox.c (353.16 KB, text/x-c)
+│           │   │   ├── bbox.cpython-37m-x86_64-linux-gnu.so (155.86 KB, application/x-sharedlib)
+│           │   │   ├── bbox.pyx (1.72 KB, text/x-script.python)
+│           │   │   ├── cpu_nms.c (373.22 KB, text/x-c)
+│           │   │   ├── cpu_nms.cpython-37m-x86_64-linux-gnu.so (239.54 KB, application/x-sharedlib)
+│           │   │   └── ... and 5 more files
+│           │   ├── dataset/
+│           │   │   ├── __init__.py (58.00 B, text/x-script.python)
+│           │   │   ├── ds_utils.py (458.00 B, text/x-script.python)
+│           │   │   ├── imdb.py (13.76 KB, text/plain)
+│           │   └── retinaface.py (6.33 KB, text/x-script.python)
+│           │   ├── io/
+│           │   │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   │   ├── image.py (30.95 KB, text/x-script.python)
+│           │   │   ├── rcnn.py (24.57 KB, text/plain)
+│           │   └── rpn.py (31.45 KB, text/plain)
+│           │   ├── processing/
+│           │   │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   │   ├── assign_levels.py (1.19 KB, text/x-script.python)
+│           │   │   ├── bbox_regression.py (9.78 KB, text/plain)
+│           │   │   ├── bbox_transform.py (7.01 KB, text/x-script.python)
+│           │   │   ├── generate_anchor.py (3.90 KB, text/plain)
+│           │   │   ├── nms.py (1.51 KB, text/x-script.python)
+│           │   ├── pycocotools/
+│           │   │   ├── UPSTREAM_REV (80.00 B, text/plain)
+│           │   │   ├── __init__.py (21.00 B, text/plain)
+│           │   │   ├── _mask.c (692.68 KB, text/x-c)
+│           │   │   ├── _mask.cpython-37m-x86_64-linux-gnu.so (779.13 KB, application/x-sharedlib)
+│           │   │   ├── _mask.pyx (11.16 KB, text/x-script.python)
+│           │   │   ├── coco.py (17.87 KB, text/x-script.python)
+│           │   │   ├── cocoeval.py (23.28 KB, text/x-script.python)
+│           │   │   ├── mask.py (4.49 KB, text/x-script.python)
+│           │   │   ├── maskApi.c (8.06 KB, text/x-c)
+│           │   └── maskApi.h (2.12 KB, text/x-c)
+│           │   └── ... and 1 more files
+│           │   ├── symbol/
+│           │   │   ├── __init__.py (82.00 B, text/x-script.python)
+│           │   │   ├── pyramidbox.py (15.74 KB, text/x-script.python)
+│           │   │   ├── symbol_common.py (24.54 KB, text/x-script.python)
+│           │   │   ├── symbol_common.py.bak (35.09 KB, text/x-script.python)
+│           │   │   ├── symbol_mnet.py (25.96 KB, text/x-script.python)
+│           │   │   ├── symbol_mnet.py.bak (17.12 KB, text/x-script.python)
+│           │   │   ├── symbol_resnet.py (22.67 KB, text/x-script.python)
+│           │   └── symbol_ssh.py (20.01 KB, text/x-script.python)
+│           │   ├── tools/
+│           │   │   ├── __init__.py (0.00 B, inode/x-empty)
+│           │   │   ├── demo_images.py (12.68 KB, text/x-script.python)
+│           │   │   ├── demo_single_image.py (6.53 KB, text/x-script.python)
+│           │   │   ├── reeval.py (1.51 KB, text/plain)
+│           │   │   ├── test_rcnn.py (4.78 KB, text/x-script.python)
+│           │   │   ├── test_rpn.py (4.39 KB, text/x-script.python)
+│           │   │   ├── train_maskrcnn.py (9.65 KB, text/x-script.python)
+│           │   │   ├── train_rcnn.py (8.73 KB, text/x-script.python)
+│           │   └── train_rpn.py (9.30 KB, text/x-script.python)
+│               ├── utils/
+│               │   ├── __init__.py (0.00 B, inode/x-empty)
+│               │   ├── combine_model.py (711.00 B, text/x-script.python)
+│               │   ├── load_data.py (1.82 KB, text/x-script.python)
+│               │   ├── load_model.py (1.95 KB, text/x-script.python)
+│               └── save_model.py (762.00 B, text/x-script.python)
+│   ├── stargan/
+│   │   ├── test/
+│   │   │   ├── F_STGN_1100-02.png (87.85 KB, image/png)
+│   │   │   ├── F_STGN_1100-03.png (87.65 KB, image/png)
+│   │   │   ├── F_STGN_1100-04.png (79.91 KB, image/png)
+│   │   │   ├── F_STGN_1100-06.png (79.91 KB, image/png)
+│   │   │   ├── F_STGN_1100-08.png (88.65 KB, image/png)
+│   │   │   ├── F_STGN_1100-10.png (79.54 KB, image/png)
+│   │   │   ├── F_STGN_1100-11.png (87.82 KB, image/png)
+│   │   │   ├── F_STGN_1100-13.png (83.52 KB, image/png)
+│   │   │   ├── F_STGN_1100-14.png (86.59 KB, image/png)
+│   │   └── F_STGN_1100-15.png (87.30 KB, image/png)
+│   │   └── ... and 21903 more files
+│   │   ├── train/
+│   │   │   ├── F_STGN_0000-01.png (77.09 KB, image/png)
+│   │   │   ├── F_STGN_0000-02.png (80.25 KB, image/png)
+│   │   │   ├── F_STGN_0000-03.png (79.28 KB, image/png)
+│   │   │   ├── F_STGN_0000-04.png (77.88 KB, image/png)
+│   │   │   ├── F_STGN_0000-05.png (75.72 KB, image/png)
+│   │   │   ├── F_STGN_0000-06.png (76.29 KB, image/png)
+│   │   │   ├── F_STGN_0000-07.png (79.06 KB, image/png)
+│   │   │   ├── F_STGN_0000-08.png (77.63 KB, image/png)
+│   │   │   ├── F_STGN_0000-09.png (77.88 KB, image/png)
+│   │   └── F_STGN_0000-10.png (75.72 KB, image/png)
+│   │   └── ... and 9990 more files
+│       ├── validation/
+│       │   ├── F_STGN_1000-01.png (95.09 KB, image/png)
+│       │   ├── F_STGN_1000-02.png (93.28 KB, image/png)
+│       │   ├── F_STGN_1000-03.png (91.62 KB, image/png)
+│       │   ├── F_STGN_1000-04.png (95.97 KB, image/png)
+│       │   ├── F_STGN_1000-05.png (93.06 KB, image/png)
+│       │   ├── F_STGN_1000-06.png (84.27 KB, image/png)
+│       │   ├── F_STGN_1000-07.png (89.71 KB, image/png)
+│       │   ├── F_STGN_1000-08.png (88.99 KB, image/png)
+│       │   ├── F_STGN_1000-09.png (91.49 KB, image/png)
+│       └── F_STGN_1000-10.png (93.42 KB, image/png)
+│       └── ... and 990 more files
+│   ├── stylegan_celeba/
+│   │   ├── test/
+│   │   │   ├── F_SyCA_11000.png (138.22 KB, image/png)
+│   │   │   ├── F_SyCA_11001.png (113.04 KB, image/png)
+│   │   │   ├── F_SyCA_11002.png (132.84 KB, image/png)
+│   │   │   ├── F_SyCA_11003.png (123.29 KB, image/png)
+│   │   │   ├── F_SyCA_11004.png (131.26 KB, image/png)
+│   │   │   ├── F_SyCA_11005.png (105.84 KB, image/png)
+│   │   │   ├── F_SyCA_11006.png (143.78 KB, image/png)
+│   │   │   ├── F_SyCA_11007.png (141.64 KB, image/png)
+│   │   │   ├── F_SyCA_11008.png (134.29 KB, image/png)
+│   │   └── F_SyCA_11009.png (152.34 KB, image/png)
+│   │   └── ... and 8990 more files
+│   │   ├── train/
+│   │   │   ├── F_SyCA_00000.png (119.33 KB, image/png)
+│   │   │   ├── F_SyCA_00001.png (131.04 KB, image/png)
+│   │   │   ├── F_SyCA_00002.png (129.13 KB, image/png)
+│   │   │   ├── F_SyCA_00003.png (137.94 KB, image/png)
+│   │   │   ├── F_SyCA_00004.png (126.83 KB, image/png)
+│   │   │   ├── F_SyCA_00005.png (128.67 KB, image/png)
+│   │   │   ├── F_SyCA_00006.png (132.80 KB, image/png)
+│   │   │   ├── F_SyCA_00007.png (131.92 KB, image/png)
+│   │   │   ├── F_SyCA_00008.png (143.64 KB, image/png)
+│   │   └── F_SyCA_00009.png (155.44 KB, image/png)
+│   │   └── ... and 9990 more files
+│       ├── validation/
+│       │   ├── F_SyCA_10000.png (143.22 KB, image/png)
+│       │   ├── F_SyCA_10001.png (144.58 KB, image/png)
+│       │   ├── F_SyCA_10002.png (111.02 KB, image/png)
+│       │   ├── F_SyCA_10003.png (141.93 KB, image/png)
+│       │   ├── F_SyCA_10004.png (129.69 KB, image/png)
+│       │   ├── F_SyCA_10005.png (127.93 KB, image/png)
+│       │   ├── F_SyCA_10006.png (113.22 KB, image/png)
+│       │   ├── F_SyCA_10007.png (108.98 KB, image/png)
+│       │   ├── F_SyCA_10008.png (130.79 KB, image/png)
+│       └── F_SyCA_10009.png (176.33 KB, image/png)
+│       └── ... and 990 more files
+    ├── stylegan_ffhq/
+    │   ├── test/
+    │   │   ├── F_SyFQ_11000.png (150.35 KB, image/png)
+    │   │   ├── F_SyFQ_11001.png (137.84 KB, image/png)
+    │   │   ├── F_SyFQ_11002.png (137.25 KB, image/png)
+    │   │   ├── F_SyFQ_11003.png (167.71 KB, image/png)
+    │   │   ├── F_SyFQ_11004.png (143.65 KB, image/png)
+    │   │   ├── F_SyFQ_11005.png (149.70 KB, image/png)
+    │   │   ├── F_SyFQ_11006.png (121.59 KB, image/png)
+    │   │   ├── F_SyFQ_11007.png (141.49 KB, image/png)
+    │   │   ├── F_SyFQ_11008.png (150.81 KB, image/png)
+    │   └── F_SyFQ_11009.png (157.89 KB, image/png)
+    │   └── ... and 8987 more files
+    │   ├── train/
+    │   │   ├── F_SyFQ_00000.png (139.09 KB, image/png)
+    │   │   ├── F_SyFQ_00001.png (149.20 KB, image/png)
+    │   │   ├── F_SyFQ_00002.png (162.97 KB, image/png)
+    │   │   ├── F_SyFQ_00003.png (153.70 KB, image/png)
+    │   │   ├── F_SyFQ_00004.png (145.32 KB, image/png)
+    │   │   ├── F_SyFQ_00005.png (164.59 KB, image/png)
+    │   │   ├── F_SyFQ_00006.png (142.81 KB, image/png)
+    │   │   ├── F_SyFQ_00007.png (159.26 KB, image/png)
+    │   │   ├── F_SyFQ_00008.png (129.83 KB, image/png)
+    │   └── F_SyFQ_00009.png (151.94 KB, image/png)
+    │   └── ... and 9989 more files
+        ├── validation/
+        │   ├── F_SyFQ_10000.png (128.87 KB, image/png)
+        │   ├── F_SyFQ_10001.png (147.81 KB, image/png)
+        │   ├── F_SyFQ_10002.png (145.79 KB, image/png)
+        │   ├── F_SyFQ_10003.png (138.29 KB, image/png)
+        │   ├── F_SyFQ_10004.png (150.68 KB, image/png)
+        │   ├── F_SyFQ_10005.png (127.78 KB, image/png)
+        │   ├── F_SyFQ_10006.png (146.38 KB, image/png)
+        │   ├── F_SyFQ_10007.png (148.70 KB, image/png)
+        │   ├── F_SyFQ_10008.png (142.42 KB, image/png)
+        └── F_SyFQ_10009.png (135.69 KB, image/png)
+        └── ... and 990 more files
+
+================================================================================
+DATASET STATISTICS
+================================================================================
+Total directories: 52
+Total files: 346
+Total size: 191.45 MB
+
+File Types:
+  - image/png: 240 files (69.36%)
+  - text/plain: 42 files (12.14%)
+  - text/x-script.python: 42 files (12.14%)
+  - inode/x-empty: 8 files (2.31%)
+  - text/x-c: 6 files (1.73%)
+  - application/x-sharedlib: 4 files (1.16%)
+  - application/x-bytecode.python: 2 files (0.58%)
+  - application/x-matlab-data: 1 files (0.29%)
+  - application/octet-stream: 1 files (0.29%)
+
+File Extensions:
+  - .png: 240 files (69.36%)
+  - .py: 55 files (15.90%)
+  - .txt: 26 files (7.51%)
+  - .c: 5 files (1.45%)
+  - .so: 4 files (1.16%)
+  - .pyx: 3 files (0.87%)
+  - .m: 2 files (0.58%)
+  - .pyc: 2 files (0.58%)
+  - [no extension]: 2 files (0.58%)
+  - .bak: 2 files (0.58%)
+  - .mat: 1 files (0.29%)
+  - .sh: 1 files (0.29%)
+  - .params: 1 files (0.29%)
+  - .json: 1 files (0.29%)
+  - .h: 1 files (0.29%)
