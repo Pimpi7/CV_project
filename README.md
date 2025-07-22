@@ -2,18 +2,20 @@
 Project for the Computer Vision course, M.Eng in AI & Robotics
 
 ## Team
-Pimpinelli Francesco 2214340
+Pimpinelli Francesco 2214340 
+
 Pitotti Leonardo 2000797
 
 ## Dataset
 The provided dataset is a distillation made by us of DFFD.
-We conducted an in-depth analysis over all the dataset to find the best way to derive samples for our task. The following image is a preview of the results, that can be consulted in the [dedicated folder](dataset\stats\DFFD): 
-![Images by technique](dataset\stats\DFFD\images_by_technique.png)
+We conducted an in-depth analysis over all the dataset to find the best way to derive samples for our task. The following image is a preview of the results, that can be consulted in the [dedicated folder](dataset/stats/DFFD): 
+![Images by technique](dataset/stats/DFFD/images_by_technique.png)
 
-Thanks to the results we could derive a 10000 images [dataset](/dataset/samples/), picking random samples from every technique used in DFFD. Some stats about what we called Distilled-DFFD can be viewed [here](dataset\stats\Distilled_DFFD), here the general structure:
-![Distilled-DFFD structure](dataset\stats\Distilled_DFFD\images_by_split.png)
+Thanks to the results we could derive a 10000 images [dataset](/dataset/samples/), picking random samples from every technique used in DFFD. Some stats about what we called Distilled-DFFD can be viewed [here](dataset/stats/Distilled_DFFD), here the general structure:
+![Distilled-DFFD structure](dataset/stats/Distilled_DFFD/images_by_split.png)
 
 In the [source](/dataset/src/) folder we put the scripts that we used for all the analysis and manipulation.
+
 ⚠️ **It is not necessary to download the dataset, this will be done during runtime by the notebook.**
 
 # Project Structure
