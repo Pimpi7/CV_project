@@ -74,7 +74,7 @@ To log the results, you need to have a WandB account and set the API key in your
 In Colab you can add the key during the runtime, for Kaggle you have to put it in the secrets keys.
 
 ## How to Run
-The notebook is meant to be run subsequently. Just go to the **Control Room (🕹️)**, in the **Hyperparameters(🔢)** section, set the values with the desired configuration and then hit **Run All**. You can choose among these options:
+The notebook is meant to be run subsequently. Just go to the **Control Room (🕹️)**, in the **Hyperparameters (🔢)** section, set the values with the desired configuration and then hit **Run All**. You can choose among these options:
 ``` python
 GRID_SEARCH = False          # flag true if you want to perform a grid search, false if you only want to train
 LOAD_FINETUNED = False       # flag true if you want to load our best fine-tuned model (modify below to choose if with PIM or not)
