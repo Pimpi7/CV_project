@@ -31,8 +31,8 @@ CV_project/
             └── fake/
             └── real/
         └── validation/
-            └── fake
-            └── real
+            └── fake/
+            └── real/
     └── src/                         # All the scripts for dataset analysis and manipulation    
     └── stats/                       # Some useful stats
         └── DFFD
